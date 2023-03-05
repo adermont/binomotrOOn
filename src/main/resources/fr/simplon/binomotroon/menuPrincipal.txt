@@ -1,0 +1,9 @@
+ **************** Menu principal *****************
+[0] Lister mes projets
+[1] Voir les groupes d'un projet
+[2] Créer un projet
+[3] Former des groupes aléatoires sur un projet
+----
+[9] Quitter
+*************************************************
+Votre choix
